@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+}
+.button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: red;
+    
+}
+.input{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 50px;
+    
+   
+}
+.btn{
+    margin: 5px;
+    color: black;
+    padding: 10px 15px;
+    border-radius: 5px;
+    background-color: rgb(246, 246, 200);
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: rgb(235, 235, 198);
+
+}
